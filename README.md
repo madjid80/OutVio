@@ -53,12 +53,20 @@ npm run test
 # Stress Test
 
 You can find an Apache Jmeter config file inside `/jmeter` folder, you can use it to regenerate stress test. Also, you can find stress test result for 10 User with 100 loop in the following:
+
+
 Samples: 2000
+
 Average: 50
+
 Min: 4
+
 Max: 150
+
 Std. Dev.: 28.73573896300563
+
 Error: 0.6985
+
 Throughput: 151.44631228229593
 
 # Code Coverage
